@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javaweb_0916" />
+        <module name="mybatis_04" />
+        <module name="mybatis_03" />
+        <module name="javaweb_0728" />
+        <module name="mybatis_01" />
+        <module name="spring_all" />
+        <module name="springmybatis_01" />
+        <module name="hibernate_01" />
+        <module name="javaweb_14" />
+        <module name="spring_05" />
+        <module name="javaweb_0817" />
+        <module name="spring_04" />
+        <module name="javaweb_13" />
+        <module name="javaweb_12" />
+        <module name="spring_01" />
+        <module name="javaweb_0727" />
+        <module name="javaweb_project" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hibernate_01" target="1.7" />
+      <module name="javaweb_07" target="1.7" />
+      <module name="javaweb_0727" target="1.7" />
+      <module name="javaweb_0728" target="1.7" />
+      <module name="javaweb_0817" target="1.7" />
+      <module name="javaweb_0818" target="1.7" />
+      <module name="javaweb_0916" target="1.7" />
+      <module name="javaweb_12" target="1.7" />
+      <module name="javaweb_13" target="1.7" />
+      <module name="javaweb_14" target="1.7" />
+      <module name="javaweb_project" target="1.7" />
+      <module name="mybatis_01" target="1.7" />
+      <module name="mybatis_03" target="1.7" />
+      <module name="mybatis_04" target="1.7" />
+      <module name="spring_01" target="1.7" />
+      <module name="spring_04" target="1.7" />
+      <module name="spring_05" target="1.7" />
+      <module name="spring_all" target="1.7" />
+      <module name="springmybatis_01" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

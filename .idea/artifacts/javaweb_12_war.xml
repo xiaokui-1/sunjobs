@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaweb_12:war">
+    <output-path>$PROJECT_DIR$/javaweb_12/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>javaweb_12</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sunjob.war">
+      <element id="artifact" artifact-name="javaweb_12:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="javaweb_07:war exploded">
+    <output-path>$PROJECT_DIR$/javaweb_07/target/s85web08</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>javaweb_07</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="javaweb_07" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.1" />
+          <element id="library" level="project" name="Maven: com.ericsson.research.trap.transports:http-server-servlet-2.5:1.4.2" />
+          <element id="library" level="project" name="Maven: com.ericsson.research.trap:trap-core:1.4.2" />
+          <element id="library" level="project" name="Maven: com.ericsson.research.trap:trap-api:1.4.2" />
+          <element id="library" level="project" name="Maven: com.ericsson.research.trap:trap-utils-api:1.4.2" />
+          <element id="library" level="project" name="Maven: com.ericsson.research.trap:trap-utils-15:1.4.2" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.5" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.45" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/javaweb_07/target/s85web08/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="javaweb_07/web/Web" />
+    </root>
+  </artifact>
+</component>

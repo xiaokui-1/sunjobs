@@ -1,0 +1,12 @@
+# Project exclude paths
+/javaweb_12/target/
+/javaweb_13/target/
+/javaweb_14/target/
+/javaweb_0727/target/
+/javaweb_0728/target/
+/javaweb_0916/target/
+/javaweb_project/target/
+/mybatis_01/target/
+/mybatis_03/target/
+/mybatis_04/target/
+/spring_01/target/
